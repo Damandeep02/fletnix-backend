@@ -8,6 +8,7 @@
 # How to run it
 - Once you have cloned the repo. Run the command `npm install` to install all dependencies.<br>
 - Once all dependencies are installed. Run `npm start` command.<br>
+- To run unit tests you can run the command `npm test`.<br>
 - This will start the backend.<br>
 
 # Hosted
